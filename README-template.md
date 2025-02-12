@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:https://github.com/BOH-DZOMO/QrCode-component
-- live url: https://qr-code-component-iota-mauve.vercel.app/
+- Solution URL:https://boh-dzomo.github.io/QrCode.github.io/index.html
+- live url: https://qr-code-component-iota-mauve.vercel.app/index.html
 
 ## My process
 

@@ -21,6 +21,7 @@ main{
     height: 499px;
     background-color: white;
     border-radius: 20px;
+    box-shadow: 6px 6px 8px 0px rgba(30, 28, 32, 0.39) ;
 }
 .card-body{
     height: 100%;
@@ -32,6 +33,8 @@ main{
 }
 img{  
     border-radius: 10px;
+    width:288px; 
+    height:288px;
 }
 .text-area{
     width: 288px;
